@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Commercial Property Website</title>
+</head>
+<body>
+<h1>Commercial Property Website</h1>
+<p>This website is for commercial property listings.</p>
+<p>To view a list of properties, please click here: <a href="/properties">Properties</a></p>
+</body>
+</html>
